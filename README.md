@@ -2,3 +2,4 @@
 Repositorio de Node-RED
 
 Este es el primer commit con Source control para el grupo 7
+Este es el segundo commit desde el plugin de github
